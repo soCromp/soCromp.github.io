@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Sonia Cromp
-description: CS PhD Student at UW-Madison
+description: CS PhD Student at UW-Madison<br>[sonic@cs.wisc.edu](mailto:sonic@cs.wisc.edu) / [GitHub](https://github.com/soCromp) / [Twitter](https://twitter.com/SonNicCr) / [Instagram](https://www.instagram.com/sonianicole.c) / [CV](https://socromp.github.io/cv.pdf)
