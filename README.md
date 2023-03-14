@@ -21,7 +21,7 @@ I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](
 - Relaxed Skiplist for Concurrent Priority Queues<br>Sonia Cromp, Michael Spear<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT 2020)<br>Finalist, ACM Student Research Competition
 
 ## Service
-- 2022-2023 Women of the ACM (WACM) President
+- 2022-2023 [Women of the ACM (WACM)](https://wacm.cs.wisc.edu/) Chapter President
 - 2022-2023 Departmental Graduate Student Advisory Committee (GSAC) Member
 - 2023 AutoML Cup Co-Organizer
 - 2022-2023 Departmental Research Symposium Organizer
