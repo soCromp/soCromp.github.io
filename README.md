@@ -1,6 +1,6 @@
 # Sonia Cromp
 
-sonic@cs.wisc.edu / [GitHub](https://github.com/soCromp) / [Twitter](https://twitter.com/SonNicCr) / [Instagram](https://www.instagram.com/sonianicole.c) / CV
+sonic@cs.wisc.edu / [GitHub](https://github.com/soCromp) / [Twitter](https://twitter.com/SonNicCr) / [Instagram](https://www.instagram.com/sonianicole.c) / [CV](https://socromp.github.io/cv.pdf)
 
 ## About me
 
