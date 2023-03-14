@@ -12,16 +12,17 @@ I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](
 
 ## Publications
 
-- **Causal Omnivore: Fusing Noisy Estimates of Spurious Correlations**<br>Dyah Adila, Sonia Cromp, Sicheng Mo, Frederic Sala<br>International Conference on Machine Learning 2022 Workshop on Spurious Correlations, Invariance, and Stability (ICML SCIS 2022)
-- **Essay Revision and Corresponding Grade Change as Captured by Text Similarity and Revision Purposes**<br>Sonia Cromp, Diane Litman<br>14th International Conference on Educational Data Mining (EDM 2021) Workshop for Undergraduates<br>Best Paper Award
-- **Relaxed Skiplist for Concurrent Priority Queues**<br>Sonia Cromp, Michael Spear<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT 2020)<br>Finalist, ACM Student Research Competition
+- **Causal Omnivore: Fusing Noisy Estimates of Spurious Correlations**<br>Dyah Adila, *Sonia Cromp*, Sicheng Mo, Frederic Sala<br>International Conference on Machine Learning 2022 Workshop on Spurious Correlations, Invariance, and Stability (ICML SCIS 2022)
+- **Essay Revision and Corresponding Grade Change as Captured by Text Similarity and Revision Purposes**<br>*Sonia Cromp*, Diane Litman<br>14th International Conference on Educational Data Mining (EDM 2021) Workshop for Undergraduates<br>Best Paper Award
+- **Relaxed Skiplist for Concurrent Priority Queues**<br>*Sonia Cromp*, Michael Spear<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT 2020)<br>Finalist, ACM Student Research Competition
 
 ## Education
 
-**University of Wisconsin-Madison**
+University of Wisconsin-Madison
 - PhD Computer Science, 2021-Present
 - MS Computer Science 2021-Present
-**University of Pittsburgh**
+
+University of Pittsburgh
 - BS Computer Science, 2021
 - BA Linguistics, 2021
 
