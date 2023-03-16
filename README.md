@@ -37,7 +37,7 @@ I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](
 - 2022 Graduate School Application Feedback Program Organizer
 
 ## Fun facts
-- Grew up in a small town in Virginia
+- Grew up in Virginia
 - Black belt in taekwondo
 - I talk about driving a manual too much - save the manuals!
 - Over a two-year [streak](https://duome.eu/crepe_obsession) on Duolingo, currently learning Turkish (slowly..)
