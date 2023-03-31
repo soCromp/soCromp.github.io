@@ -20,12 +20,12 @@ I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](
 
 ## Education
 
-- University of Wisconsin-Madison
-	- PhD Computer Science, 2021-Present
-	- MS Computer Science 2021-Present
-- University of Pittsburgh
-	- BS Computer Science, 2021
-	- BA Linguistics, 2021
+- University of Wisconsin-Madison (2021-Present)
+	- PhD Computer Science 
+	- MS Computer Science
+- University of Pittsburgh (2017-2021)
+	- BS Computer Science
+	- BA Linguistics
 
 ## Service
 - 2022-2023 [Women of the ACM (WACM)](https://wacm.cs.wisc.edu/) Chapter President
