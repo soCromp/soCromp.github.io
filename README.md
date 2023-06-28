@@ -1,10 +1,10 @@
 ## About me
 
-I’m a second-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). I am interested in the intersection of game theory and machine learning, as well as machine learning in low-data regimes.
+I’m a third-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). I am interested in the intersection of game theory and machine learning, as well as machine learning in low-data regimes.
 
 My current projects include:
 
-- Autonomous Cyber Deception: Modeling autonomous cyber warfare from a game-theoretic perspective
+- Autonomous Cyber Deception: Modeling cyber warfare from a game-theoretic perspective
 - Comparing how ML models and humans learn rules in novel enviroments
 - Fine-tuning large, general-purpose diffusion models to low-data regimes with weak supervision and active learning
 
