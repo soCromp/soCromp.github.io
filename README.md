@@ -36,10 +36,10 @@ Finalist, ACM Student Research Competition
 ## Service
 - 2022-2023 [Women of the ACM (WACM)](https://wacm.cs.wisc.edu/) Chapter President
 - 2022-2023 Departmental Graduate Student Advisory Committee (GSAC) Member
-- 2023 AutoML Cup Co-Organizer
-- 2022-2023 Departmental Research Symposium Organizer
+- 2022-2023 Incoming Graduate Student Mentoring Program Organizer
+- 2023 [AutoML Cup](https://2023.automl.cc/competitions/automl-cup/) Co-Organizer
+- 2022-2023 [Departmental Research Symposium](https://csresearchsymposium.github.io) Organizer
 - 2023 Community Center [Scratch Club](https://www.cs.wisc.edu/catapult-clubs/) Teacher
-- 2022 Incoming Graduate Student Mentoring Program Organizer
 - 2022 Graduate School Application Feedback Program Organizer
 
 ## Fun facts
