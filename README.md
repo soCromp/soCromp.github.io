@@ -1,22 +1,28 @@
 ## About me
 
-I’m a third-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). I am interested in the intersection of game theory and machine learning, as well as machine learning in low-data regimes.
-
-My current projects include:
-
-- Autonomous Cyber Deception: Modeling cyber warfare from a game-theoretic perspective
-- Comparing how ML models and humans learn rules in novel enviroments
-- Fine-tuning large, general-purpose diffusion models to low-data regimes with weak supervision and active learning
+I’m a third-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). My interests include machine learning for low-data regimes, as well as using machine learning to model game-theoretic scenarios.
 
 I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](https://wacm.cs.wisc.edu/) and a member of the Graduate Student Advisory Committee (GSAC) in the Computer Science Department.
 
 ## Publications
 
-**Causal Omnivore: Fusing Noisy Estimates of Spurious Correlations**<br>Dyah Adila, *Sonia Cromp*, Sicheng Mo, Frederic Sala<br>International Conference on Machine Learning 2022 Workshop on Spurious Correlations, Invariance, and Stability (ICML SCIS 2022)
+**The Credential is Not Enough: Combining Honeypots and Fake Credentials for Cyber-Defense**<br>
+*Sonia Cromp*, Mark Bilinski, Ryan Gabrys, Frederic Sala<br>
+14th Conference on Decision and Game Theory for Security (GameSec 23)
 
-**Essay Revision and Corresponding Grade Change as Captured by Text Similarity and Revision Purposes**<br>*Sonia Cromp*, Diane Litman<br>14th International Conference on Educational Data Mining (EDM 2021) Workshop for Undergraduates<br>Best Paper Award
+**Causal Omnivore: Fusing Noisy Estimates of Spurious Correlations**<br>
+Dyah Adila, *Sonia Cromp*, Sicheng Mo, Frederic Sala<br>
+International Conference on Machine Learning 2022 Workshop on Spurious Correlations, Invariance, and Stability (ICML SCIS 2022)
 
-**Relaxed Skiplist for Concurrent Priority Queues**<br>*Sonia Cromp*, Michael Spear<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT 2020)<br>Finalist, ACM Student Research Competition
+**Essay Revision and Corresponding Grade Change as Captured by Text Similarity and Revision Purposes**<br>
+*Sonia Cromp*, Diane Litman<br>
+14th International Conference on Educational Data Mining (EDM 2021) Workshop for Undergraduates<br>
+Best Paper Award
+
+**Relaxed Skiplist for Concurrent Priority Queues**
+<br>*Sonia Cromp*, Michael Spear<br>
+29th International Conference on Parallel Architectures and Compilation Techniques (PACT 2020)<br>
+Finalist, ACM Student Research Competition
 
 ## Education
 
