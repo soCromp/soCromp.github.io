@@ -45,5 +45,5 @@ Finalist, ACM Student Research Competition
 ## Fun facts
 - Grew up in Virginia
 - Black belt in taekwondo
-- I talk about driving a manual too much - save the manuals!
+- [Save the manuals!](https://tmgps.org)
 - Over a two-year [streak](https://duome.eu/crepe_obsession) on Duolingo, currently learning Turkish (slowly..)
