@@ -8,15 +8,15 @@ I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](
 
 **The Credential is Not Enough: Combining Honeypots and Fake Credentials for Cyber-Defense**<br>
 *Sonia Cromp*, Mark Bilinski, Ryan Gabrys, Frederic Sala<br>
-GameSec 2023
+GameSec 2023 [(link)](https://www.gamesec-conf.org/3.pdf)
 
 **Mitigating Source Bias for Fairer Weak Supervision**<br>
 Changho Shin, *Sonia Cromp*, Dyah Adila, Frederic Sala<br>
-NeurIPS 2023
+NeurIPS 2023 [(link)](https://arxiv.org/abs/2303.17713)
 
 **Geometry-Aware Adaptation for Pretrained Models**<br>
 Nicholas Roberts, Xintong Li, Dyah Adila, *Sonia Cromp*, Tzu-Heng Huang, Jitian Zhao, Frederic Sala<br>
-NeurIPS 2023
+NeurIPS 2023 [(link)](https://arxiv.org/abs/2307.12226)
 
 **Causal Omnivore: Fusing Noisy Estimates of Spurious Correlations**<br>
 Dyah Adila, *Sonia Cromp*, Sicheng Mo, Frederic Sala<br>
@@ -24,7 +24,7 @@ ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability
 
 **Essay Revision and Corresponding Grade Change as Captured by Text Similarity and Revision Purposes**<br>
 *Sonia Cromp*, Diane Litman<br>
-EDM 2021 Workshop for Undergraduates<br>
+EDM 2021 Workshop for Undergraduates<br> [(link)](https://drive.google.com/file/d/1dX2ZoC17dTsWt-nY7VHXHIYIXO9__aLN/view)
 Best Paper Award
 
 **Relaxed Skiplist for Concurrent Priority Queues**<br>
