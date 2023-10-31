@@ -24,7 +24,7 @@ ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability
 
 **Essay Revision and Corresponding Grade Change as Captured by Text Similarity and Revision Purposes**<br>
 *Sonia Cromp*, Diane Litman<br>
-EDM 2021 Workshop for Undergraduates<br> [(link)](https://drive.google.com/file/d/1dX2ZoC17dTsWt-nY7VHXHIYIXO9__aLN/view)
+EDM 2021 Workshop for Undergraduates [(link)](https://drive.google.com/file/d/1dX2ZoC17dTsWt-nY7VHXHIYIXO9__aLN/view) <br> 
 Best Paper Award
 
 **Relaxed Skiplist for Concurrent Priority Queues**<br>
