@@ -8,7 +8,7 @@ I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](
 
 **The Credential is Not Enough: Combining Honeypots and Fake Credentials for Cyber-Defense**<br>
 *Sonia Cromp*, Mark Bilinski, Ryan Gabrys, Frederic Sala<br>
-GameSec 2023 [(link)](https://www.gamesec-conf.org/3.pdf)
+GameSec 2023 [(link)](https://gamesec-conf.org/2023/3.pdf)
 
 **Mitigating Source Bias for Fairer Weak Supervision**<br>
 Changho Shin, *Sonia Cromp*, Dyah Adila, Frederic Sala<br>
