@@ -4,6 +4,8 @@ I’m a third-year CS PhD student at the University of Wisconsin-Madison, advise
 
 I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](https://wacm.cs.wisc.edu/) and a member of the Graduate Student Advisory Committee (GSAC) in the Computer Science Department.
 
+This Summer 2024, I'm excited to intern at [NASA GISS](https://www.giss.nasa.gov)! I'll be working with Michael Hendrickson to enable analysis of climate datasets with LLMs.
+
 ## Publications
 
 **The Credential is Not Enough: Combining Honeypots and Fake Credentials for Cyber-Defense**<br>
