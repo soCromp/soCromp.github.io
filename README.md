@@ -1,6 +1,6 @@
 ## About me
 
-I’m a third-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). My interests include machine learning for low-data regimes, as well as machine translation and using machine learning to model game-theoretic scenarios.
+I’m a fourth-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). My interests include machine learning for scientific domains and low-data regimes.
 
 I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](https://wacm.cs.wisc.edu/) and a member of the Graduate Student Advisory Committee (GSAC) in the Computer Science Department.
 
