@@ -2,7 +2,7 @@
 
 I’m a fourth-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). My interests include machine learning for scientific domains and low-data regimes.
 
-I was grateful to intern at [NASA GISS](https://www.giss.nasa.gov) in Summer 2024, where I worked with Michael Hendrickson to enable analysis of climate datasets with LLMs.
+In summer 2024, I was grateful to intern at [NASA GISS](https://www.giss.nasa.gov), where I worked with Michael Hendrickson to enable analysis of climate datasets with LLMs. Please check out our recent AGU24 paper, Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI, below!
 
 ## Publications
 
