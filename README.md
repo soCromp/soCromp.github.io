@@ -4,9 +4,17 @@ I’m a fourth-year CS PhD student at the University of Wisconsin-Madison, advis
 
 I’m also President of UW-Madison’s chapter of the [Women of the ACM (WACM)](https://wacm.cs.wisc.edu/) and a member of the Graduate Student Advisory Committee (GSAC) in the Computer Science Department.
 
-This Summer 2024, I'm excited to intern at [NASA GISS](https://www.giss.nasa.gov)! I'll be working with Michael Hendrickson to enable analysis of climate datasets with LLMs.
+I interned at [NASA GISS](https://www.giss.nasa.gov) in Summer 2024, where I worked with Michael Hendrickson to enable analysis of climate datasets with LLMs.
 
 ## Publications
+
+**Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
+*Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
+Meeting of the American Geophysical Union (AGU) 2024
+
+**OTTER: Effortless Label Distribution Adaptation of Zero-shot Models**<br>
+Changho Shin, Jitian Zhao, *Sonia Cromp*, Harit Vishwakarma, Frederic Sala<br>
+NeurIPS 2024
 
 **The Credential is Not Enough: Combining Honeypots and Fake Credentials for Cyber-Defense**<br>
 *Sonia Cromp*, Mark Bilinski, Ryan Gabrys, Frederic Sala<br>
