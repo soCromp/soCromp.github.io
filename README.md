@@ -7,39 +7,39 @@ I also work at [NASA GISS](https://www.giss.nasa.gov): I am a Research Assistant
 
 ## Publications
 
-#### Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI
-**Sonia Cromp**, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
+**Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**
+*Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
 *Meeting of the American Geophysical Union (AGU) 2024<br>
 NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning*
 
 **OTTER: Effortless Label Distribution Adaptation of Zero-shot Models**<br>
 Changho Shin, Jitian Zhao, *Sonia Cromp*, Harit Vishwakarma, Frederic Sala<br>
-NeurIPS 2024 [(link)](https://arxiv.org/abs/2404.08461)
+*NeurIPS 2024 [(link)](https://arxiv.org/abs/2404.08461)*
 
 **The Credential is Not Enough: Combining Honeypots and Fake Credentials for Cyber-Defense**<br>
 *Sonia Cromp*, Mark Bilinski, Ryan Gabrys, Frederic Sala<br>
-GameSec 2023 [(link)](https://gamesec-conf.org/2023/3.pdf)
+*GameSec 2023 [(link)](https://gamesec-conf.org/2023/3.pdf)*
 
 **Mitigating Source Bias for Fairer Weak Supervision**<br>
 Changho Shin, *Sonia Cromp*, Dyah Adila, Frederic Sala<br>
-NeurIPS 2023 [(link)](https://arxiv.org/abs/2303.17713)
+*NeurIPS 2023 [(link)](https://arxiv.org/abs/2303.17713)*
 
 **Geometry-Aware Adaptation for Pretrained Models**<br>
 Nicholas Roberts, Xintong Li, Dyah Adila, *Sonia Cromp*, Tzu-Heng Huang, Jitian Zhao, Frederic Sala<br>
-NeurIPS 2023 [(link)](https://arxiv.org/abs/2307.12226)
+*NeurIPS 2023 [(link)](https://arxiv.org/abs/2307.12226)*
 
 **Causal Omnivore: Fusing Noisy Estimates of Spurious Correlations**<br>
 Dyah Adila, *Sonia Cromp*, Sicheng Mo, Frederic Sala<br>
-ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability 
+*ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability*
 
 **Essay Revision and Corresponding Grade Change as Captured by Text Similarity and Revision Purposes**<br>
 *Sonia Cromp*, Diane Litman<br>
-EDM 2021 Workshop for Undergraduates [(link)](https://drive.google.com/file/d/1dX2ZoC17dTsWt-nY7VHXHIYIXO9__aLN/view) <br> 
+*EDM 2021 Workshop for Undergraduates [(link)](https://drive.google.com/file/d/1dX2ZoC17dTsWt-nY7VHXHIYIXO9__aLN/view) <br>*
 Best Paper Award
 
 **Relaxed Skiplist for Concurrent Priority Queues**<br>
 *Sonia Cromp*, Michael Spear<br>
-PACT 2020<br>
+*PACT 2020*<br>
 Finalist, ACM Student Research Competition
 
 ## Education
