@@ -7,10 +7,10 @@ I also work at [NASA GISS](https://www.giss.nasa.gov): I am a Research Assistant
 
 ## Publications
 
-**Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
-*Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
-Meeting of the American Geophysical Union (AGU) 2024<br>
-NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning 
+#### Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI
+**Sonia Cromp**, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
+*Meeting of the American Geophysical Union (AGU) 2024<br>
+NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning*
 
 **OTTER: Effortless Label Distribution Adaptation of Zero-shot Models**<br>
 Changho Shin, Jitian Zhao, *Sonia Cromp*, Harit Vishwakarma, Frederic Sala<br>
