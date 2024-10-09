@@ -2,12 +2,12 @@
 
 I’m a fourth-year CS PhD student at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). My interests include machine learning for scientific domains and low-data regimes.
 
-I also work at [NASA GISS](https://www.giss.nasa.gov): I am a Research Assistant with [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/) and a Graduate Intern, working with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. Please check out our recent AGU24 and NeurIPS workshop paper, Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI, below!
+I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov): I am a Research Assistant with [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/) and a Graduate Intern, working with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. Please check out our recent AGU24 and NeurIPS workshop paper, Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI, below!
 
 
 ## Publications
 
-**Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**
+**Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
 *Meeting of the American Geophysical Union (AGU) 2024<br>
 NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning*
