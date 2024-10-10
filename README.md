@@ -7,6 +7,10 @@ I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov): I am a Rese
 
 ## Publications
 
+**Tabby: Tabular Adaptation for Language Models**<br>
+*Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
+*NeurIPS 2024 Workshop on Table Representation Learning*
+
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
 *Meeting of the American Geophysical Union (AGU) 2024<br>
