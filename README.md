@@ -17,6 +17,13 @@ I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov): I am a Rese
 NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning<br>
 NeurIPS 2024 Workshop on Machine Learning and the Physical Sciences*
 
+**Pretrained Hybrids with MAD Skills**<br>
+Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia Cromp*, Chengjun Wu, Chengyu Duan, Frederic Sala<br>
+*ICML 2024 Long-Context Foundation Models (LCFM) Workshop*<br>
+*ICML 2024 Next Generation of Sequence Modeling Architectures (NGSM) Workshop*<br>
+*ICML 2024 Efficient Systems for Foundation Models (ES-FoMo) Workshop*<br>
+*ICML 2024 Workshop on Foundation Models in the Wild*
+
 **OTTER: Effortless Label Distribution Adaptation of Zero-shot Models**<br>
 Changho Shin, Jitian Zhao, *Sonia Cromp*, Harit Vishwakarma, Frederic Sala<br>
 *NeurIPS 2024 [(link)](https://arxiv.org/abs/2404.08461)*
