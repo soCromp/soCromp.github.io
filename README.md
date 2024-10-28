@@ -22,7 +22,8 @@ Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia 
 *ICML 2024 Long-Context Foundation Models (LCFM) Workshop*<br>
 *ICML 2024 Next Generation of Sequence Modeling Architectures (NGSM) Workshop*<br>
 *ICML 2024 Efficient Systems for Foundation Models (ES-FoMo) Workshop*<br>
-*ICML 2024 Workshop on Foundation Models in the Wild*
+*ICML 2024 Workshop on Foundation Models in the Wild*<br>
+*[(link)](https://arxiv.org/abs/2406.00894)*
 
 **OTTER: Effortless Label Distribution Adaptation of Zero-shot Models**<br>
 Changho Shin, Jitian Zhao, *Sonia Cromp*, Harit Vishwakarma, Frederic Sala<br>
