@@ -15,7 +15,7 @@ I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov): I am a Rese
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
 *Meeting of the American Geophysical Union (AGU) 2024<br>
 NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning<br>
-NeurIPS 2024 Workshop on Machine Learning and the Physical Sciences*
+NeurIPS 2024 Workshop on Machine Learning and the Physical Sciences [(link)](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_14.pdf)*
 
 **Pretrained Hybrids with MAD Skills**<br>
 Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia Cromp*, Chengjun Wu, Chengyu Duan, Frederic Sala<br>
