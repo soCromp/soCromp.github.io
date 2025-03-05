@@ -1,6 +1,6 @@
 ## About me
 
-I’m a fourth-year CS PhD candidate at the University of Wisconsin-Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). My interests include machine learning for scientific domains and low-data regimes.
+I’m a fourth-year CS PhD candidate at the University of Wisconsin-Madison, in [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)'s [Sprocket Lab](https://sprocketlab.github.io). My interests include machine learning for scientific domains and low-data regimes.
 
 I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov): I am a Research Assistant with [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/) and a Graduate Intern, working with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. Please check out our recent AGU24 and NeurIPS workshop paper, Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI, below!
 
@@ -9,7 +9,8 @@ I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov): I am a Rese
 
 **Tabby: Tabular Adaptation for Language Models**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
-*NeurIPS 2024 Workshop on Table Representation Learning*
+*NeurIPS 2024 Workshop on Table Representation Learning*<br>
+[ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://sprocketlab.github.io/posts/2025/02/tabby/) and [codebase](https://github.com/soCromp/tabby)
 
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
@@ -22,8 +23,7 @@ Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia 
 *ICML 2024 Long-Context Foundation Models (LCFM) Workshop*<br>
 *ICML 2024 Next Generation of Sequence Modeling Architectures (NGSM) Workshop*<br>
 *ICML 2024 Efficient Systems for Foundation Models (ES-FoMo) Workshop*<br>
-*ICML 2024 Workshop on Foundation Models in the Wild*<br>
-*[(link)](https://arxiv.org/abs/2406.00894)*
+*ICML 2024 Workshop on Foundation Models in the Wild*[(link)](https://arxiv.org/abs/2406.00894)*
 
 **OTTER: Effortless Label Distribution Adaptation of Zero-shot Models**<br>
 Changho Shin, Jitian Zhao, *Sonia Cromp*, Harit Vishwakarma, Frederic Sala<br>
