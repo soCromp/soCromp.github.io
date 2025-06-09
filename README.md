@@ -12,6 +12,7 @@ I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov) as a Researc
 **Tabby: Tabular Adaptation for Language Models**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
 *NeurIPS 2024 Workshop on Table Representation Learning*<br>
+*Under Review at NeurIPS 2025*<br>
 [ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://sprocketlab.github.io/posts/2025/02/tabby/) and [codebase](https://github.com/soCromp/tabby)
 
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
