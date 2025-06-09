@@ -1,8 +1,10 @@
 ## About me
 
-I’m a fourth-year CS PhD candidate at the University of Wisconsin-Madison, in [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)'s [Sprocket Lab](https://sprocketlab.github.io). My interests include machine learning for scientific domains and low-data regimes.
+Hi, I'm Sonia!
 
-I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov): I am a Research Assistant with [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/) and a Graduate Intern, working with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. Please check out our recent AGU24 and NeurIPS workshop paper, Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI, below!
+I’m a rising fifth-year CS PhD candidate at the University of Wisconsin-Madison, in [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)'s [Sprocket Lab](https://sprocketlab.github.io). My interests are machine learning for climate science and other scientific fields, with a particular focus on generative modeling for rare events and low-data tasks.
+
+I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov) as a Research Assistant with [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/), where I am designing a diffusion model for predicting the evolution of cyclone storms. In Summer 2024 and Spring 2025, I also completed two NASA GISS internships, where I worked with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. Please check out our AGU/NeurIPS workshop paper, Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI, below!
 
 
 ## Publications
