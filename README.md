@@ -7,6 +7,10 @@ I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov) as a Researc
 
 ## Publications
 
+**Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
+*Sonia Cromp*, Kellie O'Grady, Grace Kisslinger, Allegra LeGrande<br>
+*Under Review at the 2025 Meeting of the American Geophysical Union (AGU25)*
+
 **Tabby: Tabular Adaptation for Language Models**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
 *NeurIPS 2024 Workshop on Table Representation Learning*<br>
@@ -15,7 +19,7 @@ I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov) as a Researc
 
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
-*Meeting of the American Geophysical Union (AGU) 2024<br>
+*2024 Meeting of the American Geophysical Union (AGU24)<br>
 NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning<br>
 NeurIPS 2024 Workshop on Machine Learning and the Physical Sciences [(link)](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_14.pdf)*
 
