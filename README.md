@@ -1,21 +1,24 @@
 ## About me
 
-I’m a rising fifth-year CS PhD candidate at the University of Wisconsin-Madison, in [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)'s [Sprocket Lab](https://sprocketlab.github.io). My interests are machine learning for climate science and other scientific fields, with a particular focus on generative modeling for rare events and low-data tasks.
+I’m fifth-year CS PhD candidate at the University of Wisconsin-Madison, in [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)'s [Sprocket Lab](https://sprocketlab.github.io). My interests are machine learning for climate science and other scientific fields, with a particular focus on generative modeling for rare events and low-data tasks.
 
-I'm also grateful to work at [NASA GISS](https://www.giss.nasa.gov) as a Research Assistant with [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/), where I am designing a diffusion model for predicting the evolution of cyclone storms. In Summer 2024 and Spring 2025, I also completed two NASA GISS internships, where I worked with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. Keep an eye out at AGU 2025 for our latest project, Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards!
+I also collaborate with and am mentored by [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) at [NASA GISS](https://www.giss.nasa.gov), where I previously completed a year-long Research Assistant appointment through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/). Our ongoing work focuses on designing a diffusion model for simulating the evolution of cyclone storms. In Summer 2024 and Spring 2025, I also completed two NASA [OSTEM internships](https://www.nasa.gov/learning-resources/internship-programs/) at GISS, where I worked with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. 
+
+
+**December 2025 News: Tabby, my LLM-based approach to tabular and structured data synthesis, [was just accepted to TMLR!](https://openreview.net/forum?id=b9FPVnb0Bn)** 🎉
 
 
 ## Publications
 
+**Tabby: A Language Model Architecture for Tabular and Structured Data Synthesis**<br>
+*Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
+*NeurIPS 2024 Workshop on Table Representation Learning*<br>
+*To Appear at TTRL*<br>
+[ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://sprocketlab.github.io/posts/2025/02/tabby/) and [codebase](https://github.com/soCromp/tabby)
+
 **Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
 *Sonia Cromp*, Kellie O'Grady, Grace Kisslinger, Allegra LeGrande<br>
 *2025 Meeting of the American Geophysical Union (AGU25)*
-
-**Tabby: Tabular Adaptation for Language Models**<br>
-*Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
-*NeurIPS 2024 Workshop on Table Representation Learning*<br>
-*Under Review at TTRL*<br>
-[ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://sprocketlab.github.io/posts/2025/02/tabby/) and [codebase](https://github.com/soCromp/tabby)
 
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
