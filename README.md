@@ -12,7 +12,7 @@ I also collaborate with and am mentored by [Allegra LeGrande](https://science.gs
 
 **Tabby: A Language Model Architecture for Tabular and Structured Data Synthesis**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
-*To Appear at TTRL*<br>
+*To Appear in Transactions in Machine Learning Research (TMLR)*<br>
 [ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://sprocketlab.github.io/posts/2025/02/tabby/) and [codebase](https://github.com/soCromp/tabby)
 
 **Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
