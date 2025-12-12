@@ -12,26 +12,22 @@ I also collaborate with and am mentored by [Allegra LeGrande](https://science.gs
 
 **Tabby: A Language Model Architecture for Tabular and Structured Data Synthesis**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
-*NeurIPS 2024 Workshop on Table Representation Learning*<br>
 *To Appear at TTRL*<br>
 [ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://sprocketlab.github.io/posts/2025/02/tabby/) and [codebase](https://github.com/soCromp/tabby)
 
 **Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
 *Sonia Cromp*, Kellie O'Grady, Grace Kisslinger, Allegra LeGrande<br>
-*2025 Meeting of the American Geophysical Union (AGU25)*
+*2025 Meeting of the American Meterological Society (AMS)*
+
+**Pretrained Hybrids with MAD Skills**<br>
+Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia Cromp*, Chengjun Wu, Chengyu Duan, Frederic Sala<br>
+*COLM 2025*[(link)](https://arxiv.org/abs/2406.00894)*
 
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
 *2024 Meeting of the American Geophysical Union (AGU24)<br>
 NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning<br>
 NeurIPS 2024 Workshop on Machine Learning and the Physical Sciences [(link)](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_14.pdf)*
-
-**Pretrained Hybrids with MAD Skills**<br>
-Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia Cromp*, Chengjun Wu, Chengyu Duan, Frederic Sala<br>
-*ICML 2024 Long-Context Foundation Models (LCFM) Workshop*<br>
-*ICML 2024 Next Generation of Sequence Modeling Architectures (NGSM) Workshop*<br>
-*ICML 2024 Efficient Systems for Foundation Models (ES-FoMo) Workshop*<br>
-*ICML 2024 Workshop on Foundation Models in the Wild*[(link)](https://arxiv.org/abs/2406.00894)*
 
 **OTTER: Effortless Label Distribution Adaptation of Zero-shot Models**<br>
 Changho Shin, Jitian Zhao, *Sonia Cromp*, Harit Vishwakarma, Frederic Sala<br>
