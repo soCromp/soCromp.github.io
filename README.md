@@ -21,7 +21,7 @@ I also collaborate with and am mentored by [Allegra LeGrande](https://science.gs
 
 **Pretrained Hybrids with MAD Skills**<br>
 Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia Cromp*, Chengjun Wu, Chengyu Duan, Frederic Sala<br>
-*COLM 2025*[(link)](https://arxiv.org/abs/2406.00894)*
+*COLM 2025* [(link)](https://arxiv.org/abs/2406.00894)
 
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
 *Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
