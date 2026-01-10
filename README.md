@@ -17,7 +17,7 @@ I am actively searching for postdoctoral positions; feel free to contact me at c
 **Tabby: A Language Model Architecture for Tabular and Structured Data Synthesis**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
 *Transactions in Machine Learning Research (TMLR) 2026*<br>
-***[Awarded J2C Certification ~ Top 10% of Accepted Papers](https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d)***<br>
+*[Awarded J2C Certification ~ Top 10% of Accepted Papers](https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d)*<br>
 [ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://namburisrinath.medium.com/tabby-tabular-adaptation-for-language-models-c2b9a18a79ed) and [codebase](https://github.com/soCromp/tabby)
 
 **Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
