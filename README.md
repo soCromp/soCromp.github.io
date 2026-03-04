@@ -22,7 +22,7 @@ I am actively searching for postdoctoral positions; feel free to contact me at [
 
 **Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
 *Sonia Cromp*, Kellie O'Grady, Grace Kisslinger, Allegra LeGrande<br>
-*2025 Meeting of the American Meterological Society (AMS)* [(codebase)](https://github.com/soCromp/geodes)
+*2025 Meeting of the American Meteorological Society (AMS)* [(codebase)](https://github.com/soCromp/geodes)
 
 **Pretrained Hybrids with MAD Skills**<br>
 Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia Cromp*, Chengjun Wu, Chengyu Duan, Frederic Sala<br>
