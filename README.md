@@ -8,7 +8,7 @@ I am actively searching for postdoctoral positions; feel free to contact me at [
 
 
 ## Recent News
-- **January 2026: Thrilled to learn that Tabby has recieved the [J2C](https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d) certification from TMLR!** I look forward to presenting Tabby at an upcoming NeurIPS/ICML/ICLR soon; more details to follow!
+- **January 2026: Thrilled to learn that Tabby has recieved the [J2C](https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d) certification from TMLR!** I look forward to presenting Tabby at ICLR 2026 in the J2C track!
 - **December 2025: Tabby, my LLM-based approach to tabular and structured data synthesis, [was just accepted to TMLR!](https://openreview.net/forum?id=b9FPVnb0Bn)** 🎉
 
 
@@ -29,7 +29,7 @@ Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia 
 *COLM 2025* [(link)](https://arxiv.org/abs/2406.00894)
 
 **Climate PAL: Enhancing Accessibility of Climate Model Data through Conversational AI**<br>
-*Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron<br>
+*Sonia Cromp*, Behrad Rabiei, Maxwell Elling, Alexander Herron, Michael Hendrickson<br>
 *2024 Meeting of the American Geophysical Union (AGU24)<br>
 NeurIPS 2024 CCAI Workshop on Tackling Climate Change with Machine Learning<br>
 NeurIPS 2024 Workshop on Machine Learning and the Physical Sciences [(link)](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_14.pdf)*
