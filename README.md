@@ -8,21 +8,23 @@ I am actively searching for postdoctoral positions; feel free to contact me at [
 
 
 ## Recent News
+- **May 2026**: The University of Wisconsin-Madison's Center for High Throughput Computing (CHTC) published a [user story](https://chtc.cs.wisc.edu/sonia-cromp-filling-gap-of-ai.html) on my work. **Big shoutout to CHTC** for being such a massive help to my research with their cutting-edge GPU Lab!
 - **January 2026: Thrilled to learn that Tabby has recieved the [J2C](https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d) certification from TMLR!** I look forward to presenting Tabby at ICLR 2026 in the J2C track!
 - **December 2025: Tabby, my LLM-based approach to tabular and structured data synthesis, [was just accepted to TMLR!](https://openreview.net/forum?id=b9FPVnb0Bn)** 🎉
 
 
 ## Publications
 
+**Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
+*Sonia Cromp*, Youran Wang, Satya Sai Srinath Namburi GNVV, Grace Kisslinger, Kellie O’Grady, Frederic Sala, James Booth, Allegra LeGrande<br>
+*2025 Meeting of the American Meteorological Society (AMS)* <br>
+*In Preparation for Transactions on Machine Learning Research (TMLR) 2026 (Manuscript Available Upon Request)* [(codebase)](https://github.com/soCromp/geodes)
+
 **Tabby: A Language Model Architecture for Tabular and Structured Data Synthesis**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
 *Transactions in Machine Learning Research (TMLR) 2026*<br>
 *[Awarded J2C Certification ~ Top 10% of Accepted Papers](https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d)*<br>
 [ArXiv](https://arxiv.org/abs/2503.02152), [blog](https://namburisrinath.medium.com/tabby-tabular-adaptation-for-language-models-c2b9a18a79ed) and [codebase](https://github.com/soCromp/tabby)
-
-**Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
-*Sonia Cromp*, Kellie O'Grady, Grace Kisslinger, Allegra LeGrande<br>
-*2025 Meeting of the American Meteorological Society (AMS)* [(codebase)](https://github.com/soCromp/geodes)
 
 **Pretrained Hybrids with MAD Skills**<br>
 Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV, *Sonia Cromp*, Chengjun Wu, Chengyu Duan, Frederic Sala<br>
