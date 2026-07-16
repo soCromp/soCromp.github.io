@@ -1,6 +1,6 @@
 ## About Me
 
-I’m fifth-year CS PhD candidate at the University of Wisconsin-Madison, in [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)'s [Sprocket Lab](https://sprocketlab.github.io). My interests are machine learning for climate science and other scientific fields, with a particular focus on generative modeling for rare events and low-data tasks.
+I’m a final-year CS PhD candidate at the University of Wisconsin-Madison, in [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)'s [Sprocket Lab](https://sprocketlab.github.io). My interests are machine learning for scientific fields, with a particular focus on generative modeling for rare events and low-data tasks.
 
 I also collaborate with and am mentored by [Allegra LeGrande](https://science.gsfc.nasa.gov/sci/bio/allegra.n.legrande) at [NASA GISS](https://www.giss.nasa.gov), where I previously completed a year-long Research Assistant appointment through the [Climate Change Research Initiative](https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/). Our ongoing work focuses on designing a [diffusion model for simulating the evolution of cyclone storms](https://github.com/soCromp/geodes). In Summer 2024 and Spring 2025, I also completed two NASA [OSTEM internships](https://www.nasa.gov/learning-resources/internship-programs/) at GISS, where I worked with [Michael Hendrickson](https://www.giss.nasa.gov/staff/mhendrickson.html) to enable analysis of climate datasets with LLMs. 
 
@@ -15,10 +15,10 @@ I am actively searching for postdoctoral positions; feel free to contact me at [
 
 ## Publications
 
-**Diffusion-Based Modeling of Extratropical Cyclone Wind Field and Storm Surge Hazards**<br>
-*Sonia Cromp*, Youran Wang, Satya Sai Srinath Namburi GNVV, Grace Kisslinger, Kellie O’Grady, Frederic Sala, James Booth, Allegra LeGrande<br>
+**Geospatial Diffusion-based Evolution Synthesis (GeoDES) for Storm-Centered Weather Augmentation**<br>
+*Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Youran Wang, Grace Kisslinger, Frederic Sala, James Booth, Allegra LeGrande<br>
 *2025 Meeting of the American Meteorological Society (AMS)* <br>
-*In Preparation for Transactions on Machine Learning Research (TMLR) 2026 (Manuscript Available Upon Request)* [(codebase)](https://github.com/soCromp/geodes)
+*Under Review at Transactions on Machine Learning Research (TMLR) 2026 (Manuscript Available Upon Request)* [(codebase)](https://github.com/soCromp/geodes)
 
 **Tabby: A Language Model Architecture for Tabular and Structured Data Synthesis**<br>
 *Sonia Cromp*, Satya Sai Srinath Namburi GNVV, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala<br>
